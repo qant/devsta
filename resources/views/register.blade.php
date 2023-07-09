@@ -5,7 +5,7 @@ Register en Devsta
 @section('content')
     <div class="md:flex md:justify-center">
         <div class="md:w-4/12">
-            <p>Imagen</p>
+            <img src="{{asset('img/registrar.jpg')}}" alt="register">
         </div>
         <div class="md:w-4/12 p-5 rounded-md shadow-md bg-white">
             <form>
